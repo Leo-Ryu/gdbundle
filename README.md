@@ -51,6 +51,9 @@ $ python --version
 Python 3.6.9
 ```
 
+### Reference Docs
+https://docs.contour.so/memfault/gdbundle/getting-started
+
 ### Install gdbundle
 
 Install `gdbundle` from PyPi first. Using a
